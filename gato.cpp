@@ -135,7 +135,6 @@ int main()
         cout << endl;
         comprobarganador(tablero,FILAS,COLUMNAS);
         cout << endl;
-        
         cout << endl;}
     while (ganador != 1);
     
